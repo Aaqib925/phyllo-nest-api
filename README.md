@@ -1,4 +1,4 @@
-# AI Image Generated Using OpenAI (NestJS).
+# Phyllo Api (NestJS).
 
 ## Installation
 
